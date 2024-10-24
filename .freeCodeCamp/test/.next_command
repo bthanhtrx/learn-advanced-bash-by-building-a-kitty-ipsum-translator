@@ -158,3 +158,5 @@ ls --color=auto
 ls --color=auto -la
 cat kitty_ipsum_1.txt
 cat kitty_ipsum_2.txt
+wc kitty_ipsum_1
+wc kitty_ipsum_1.txt
