@@ -142,3 +142,9 @@ echo freeCodeCamp > name.txt
 cat name.txt < ./script.sh
 ./script.sh < name.txt
 ./script.sh < name.txt 2> stderr.txt
+./script.sh heloo < echo
+./script.sh < heloo
+./script.sh < read
+./script.sh NAMEO < read
+./script.sh
+./script.sh < name.txt 2> stderr.txt > stdout.txt
