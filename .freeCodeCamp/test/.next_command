@@ -66,3 +66,6 @@ echo freeCodeCamp > name.txt
 name.txt < read
 name.txt NAME < read
 read NAME < name.txt
+cat name.txt
+echo $NAME
+echo $NAME
