@@ -37,3 +37,5 @@ echo hello bash > stdout.txt
 echo hello bash >> stdout.txt
 cat stdout.txt
 echo hello bash > stdout.txt
+cat stdout.txt
+> stdout.txt
