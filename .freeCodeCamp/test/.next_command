@@ -44,3 +44,11 @@ bad_command
 bad_command > stderr.txt
 cat stderr.txt
 bad_command 2> stderr.txt
+ls --color=auto
+echo bash > stdout.txt
+cat stdout.txt
+oeuou > stdout.txt
+cat stdout.txt
+oeuou 2> stdout.txt
+cat stdout.txt
+echo hello bash > stdout.txt
