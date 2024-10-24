@@ -79,3 +79,4 @@ echo $NAME
 echo nero
 echo $NAME
 cat
+cat name.txt
