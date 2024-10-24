@@ -62,3 +62,4 @@ read NAME
 read NAME
 echo $NAME
 echo $NAME > stdout.txt
+echo freeCodeCamp > name.txt
