@@ -61,3 +61,4 @@ cat $NAME
 read NAME
 read NAME
 echo $NAME
+echo $NAME > stdout.txt
