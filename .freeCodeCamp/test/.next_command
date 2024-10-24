@@ -120,3 +120,24 @@ echo nero 2> stderr.txt
 echo nero
 echo nero
 echo nero
+ls --color=auto
+cat stdout.txt
+cat stderr.txt
+__vsc_prompt_cmd_original
+name.txt
+name.txt
+__vsc_prompt_cmd_original
+ls --color=auto
+cat name.txt
+cat name.txt < ./script.sh 2> stderr.txt > stdout.txt
+cat stdout.txt
+cat name.txt
+nero > name.txt
+echo nero > name.txt
+cat name.txt < ./script.sh 2> stderr.txt > stdout.txt
+cat stdout.txt
+cat name.txt < ./script.sh
+cat name.txt < ./script.sh
+echo freeCodeCamp > name.txt
+cat name.txt < ./script.sh
+./script.sh < name.txt
