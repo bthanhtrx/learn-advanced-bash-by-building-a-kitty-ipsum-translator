@@ -80,3 +80,13 @@ echo nero
 echo $NAME
 cat
 cat name.txt
+cat name.txt NAME > read
+__vsc_prompt_cmd_original
+read NAME name.txt < cat
+read NAME
+echo $NAME
+read NAME < name.txt
+read NAME > name.txt
+echo $NAME
+cat name.txt
+cat < name.txt
