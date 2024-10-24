@@ -119,3 +119,4 @@ echo nero
 echo nero 2> stderr.txt
 echo nero
 echo nero
+echo nero
