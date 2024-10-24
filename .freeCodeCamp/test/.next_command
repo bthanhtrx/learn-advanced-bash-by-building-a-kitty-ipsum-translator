@@ -54,3 +54,8 @@ cat stdout.txt
 echo hello bash > stdout.txt
 cat stdout.txt
 read NAME
+cat $NAME
+echo $NAME
+cat $NAME
+cat $NAME
+read NAME
