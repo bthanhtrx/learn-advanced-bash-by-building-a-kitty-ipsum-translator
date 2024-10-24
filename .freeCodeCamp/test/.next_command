@@ -63,3 +63,6 @@ read NAME
 echo $NAME
 echo $NAME > stdout.txt
 echo freeCodeCamp > name.txt
+name.txt < read
+name.txt NAME < read
+read NAME < name.txt
