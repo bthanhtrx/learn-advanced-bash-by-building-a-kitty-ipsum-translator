@@ -34,3 +34,4 @@ echo hello > stdout.txt
 ls --color=auto
 echo hello > stdout.txt
 echo hello bash > stdout.txt
+echo hello bash >> stdout.txt
