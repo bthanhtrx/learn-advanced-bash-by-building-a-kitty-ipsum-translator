@@ -97,3 +97,4 @@ echo $NAME
 echo $NAME
 echo $NAME
 echo NAME
+touch script.sh
