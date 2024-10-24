@@ -101,3 +101,7 @@ touch script.sh
 chmod +x script.sh
 nano script.sh
 __vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+./script.sh
