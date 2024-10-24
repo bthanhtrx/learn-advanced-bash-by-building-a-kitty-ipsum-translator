@@ -69,3 +69,8 @@ read NAME < name.txt
 cat name.txt
 echo $NAME
 echo $NAME
+__vsc_prompt_cmd_original
+echo $NAME
+__vsc_prompt_cmd_original
+echo $NAME
+echo nero
