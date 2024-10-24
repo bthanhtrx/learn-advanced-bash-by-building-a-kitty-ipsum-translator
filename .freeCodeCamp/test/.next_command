@@ -161,3 +161,6 @@ cat kitty_ipsum_2.txt
 wc kitty_ipsum_1
 wc kitty_ipsum_1.txt
 man wc
+man wc
+man wc -l
+wc kitty_ipsum_1.txt -l
