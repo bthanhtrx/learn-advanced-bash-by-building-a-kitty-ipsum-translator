@@ -74,3 +74,4 @@ echo $NAME
 __vsc_prompt_cmd_original
 echo $NAME
 echo nero
+echo $NAME
