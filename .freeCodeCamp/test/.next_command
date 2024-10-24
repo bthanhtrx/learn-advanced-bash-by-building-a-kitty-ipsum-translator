@@ -59,3 +59,5 @@ echo $NAME
 cat $NAME
 cat $NAME
 read NAME
+read NAME
+echo $NAME
