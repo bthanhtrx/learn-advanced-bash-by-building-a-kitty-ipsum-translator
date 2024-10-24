@@ -90,3 +90,10 @@ read NAME > name.txt
 echo $NAME
 cat name.txt
 cat < name.txt
+echo name > name.txt
+cat < name.txt
+echo $NAME
+echo $NAME
+echo $NAME
+echo $NAME
+echo NAME
