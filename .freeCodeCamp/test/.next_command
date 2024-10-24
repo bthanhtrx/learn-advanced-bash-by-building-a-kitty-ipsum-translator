@@ -42,3 +42,5 @@ cat stdout.txt
 cat stdout.txt
 bad_command
 bad_command > stderr.txt
+cat stderr.txt
+bad_command 2> stderr.txt
