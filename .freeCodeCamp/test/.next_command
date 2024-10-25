@@ -231,3 +231,5 @@ cat kitty_ipsum_1.txt
 man wc
 wc -m kitty_ipsum_1.txt < cat >> kitty_info.txt
 wc -m < kitty_ipsum_1.txt >> kitty_info.txt
+grep meow kitty_ipsum_1
+grep meow kitty_ipsum_1.txt
