@@ -385,3 +385,7 @@ grep -n cat[a-z]* kitty_ipsum_1.txt
 grep -c cat[a-z]* kitty_ipsum_1.txt
 grep -n cat[a-z]* kitty_ipsum_1.txt
 grep -n cat[a-z]* kitty_ipsum_1.txt
+__vsc_prompt_cmd_original
+echo -e "\n~~ kitty_ipsum_2.txt info ~~"
+echo -e "\n~~ kitty_ipsum_2.txt info ~~" >> kitty_info.txt
+echo -e "\n\n~~ kitty_ipsum_2.txt info ~~" >> kitty_info.txt
