@@ -275,3 +275,4 @@ wc s/freeCodeCamp/f233C0d3C@mp/i name.txt < sed
 wc s/freeCodeCamp/f233C0d3C@mp/i name.txt < sed
 sed s/freeCodeCamp/f233C0d3C@mp/i < name.txt
 sed s/freecodecamp/f233C0d3C@mp/i < name.txt
+cat name.txt
