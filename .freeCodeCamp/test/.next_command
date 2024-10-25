@@ -447,3 +447,6 @@ grep meow[a-z]* -n kitty_ipsum_2.txt
 grep meow[a-z]* -n kitty_ipsum_2.txt
 grep meow[a-z]* -n kitty_ipsum_2.txt
 grep meow[a-z]* -n kitty_ipsum_2.txt
+grep cat[a-z]* kitty_ipsum_2
+grep cat[a-z]* kitty_ipsum_2.txt
+grep cat[a-z]* --color kitty_ipsum_2.txt
