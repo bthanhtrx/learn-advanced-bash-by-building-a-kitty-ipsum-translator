@@ -442,3 +442,4 @@ grep meow[a-z]* kitty_ipsum_2.txt
 grep meow[a-z]* kitty_ipsum_2.txt
 grep meow[a-z]* -o kitty_ipsum_2.txt
 grep meow[a-z]* -o kitty_ipsum_2.txt
+echo -e "\nLines that they appear on:" >> kitty_info.txt
