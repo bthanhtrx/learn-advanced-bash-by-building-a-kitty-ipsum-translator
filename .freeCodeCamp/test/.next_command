@@ -508,3 +508,4 @@ man diff
 diff kitty_ipsum_1.txt doggy_ipsum_1.txt --color
 __vsc_prompt_cmd_original
 ./translate.sh kitty_ipsum_2.txt > doggy_ipsum_2.txt
+cat doggy_ipsum_2.txt
