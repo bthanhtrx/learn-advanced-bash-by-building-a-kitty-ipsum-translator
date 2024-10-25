@@ -255,3 +255,6 @@ echo -e "\nLines thathey appear on:" >> kitty_info.txt
 echo -e "\nLines that they appear on:" >> kitty_info.txt
 grep meow[a-z]* -n kitty_ipsum_1.txt
 man grep
+grep meow[a-z]* -C kitty_ipsum_1.txt
+man grep
+cat name.txt
