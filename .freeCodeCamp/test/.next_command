@@ -466,3 +466,4 @@ chmod translate.sh
 chmod +x translate.sh
 nano translate.sh
 __vsc_prompt_cmd_original
+nano translate.sh
