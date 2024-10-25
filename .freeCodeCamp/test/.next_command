@@ -478,3 +478,9 @@ __vsc_prompt_cmd_original
 ./translate.sh kitty_ipsum_1.txt
 ./translate.sh kitty_ipsum_1.txt
 ./translate.sh kitty_ipsum_1.txt
+./translate.sh dogchow w-- chow
+./translate.sh dogchow chow
+./translate.sh 'dogchow chow'
+./translate.sh dogchow
+./translate.sh dogchow
+./translate.sh kitty_ipsum_1.txt
