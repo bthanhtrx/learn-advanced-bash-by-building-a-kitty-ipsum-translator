@@ -218,3 +218,7 @@ wc hello
 wc hello < echo
 wc < hello
 echo -e "\nNumber of lines:" >> kitty_info.txt
+cat kitty_ipsum_1.txt
+cat kitty_ipsum_1.txt
+cat kitty_ipsum_1.txt
+cat kitty_ipsum_1.txt
