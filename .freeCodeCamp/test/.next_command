@@ -258,3 +258,6 @@ man grep
 grep meow[a-z]* -C kitty_ipsum_1.txt
 man grep
 cat name.txt
+sed 's/r/2' name.txt
+sed s/r/2 name.txt
+sed s/r/2/ name.txt
