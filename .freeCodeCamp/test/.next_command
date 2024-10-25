@@ -293,3 +293,6 @@ grep meow[a-z]* -n kitty_ipsum_1.txt
 grep meow[a-z]* -n kitty_ipsum_1.txt
 grep meow[a-z]* -n kitty_ipsum_1.txt
 grep meow[a-z]* -n kitty_ipsum_1.txt
+__vsc_prompt_cmd_original
+grep meow[a-z]* -n kitty_ipsum_1.txt
+grep meow[a-z]* -n kitty_ipsum_1.txt
