@@ -365,3 +365,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 grep cat* --color kitty_ipsum_1.txt
 grep cat* --color kitty_ipsum_1.txt
 grep cat[a-z]* --color kitty_ipsum_1.txt
+grep cat[a-z]* --color kitty_ipsum_1.txt
+echo -e "\nNumber of times cat, cats, or catnip appears:" >> kitty_info.txt
