@@ -373,3 +373,8 @@ grep -c cat[a-z]* kitty_ipsum_1.txt
 grep -n --color cat[a-z]* kitty_ipsum_1.txt
 grep -o --color cat[a-z]* kitty_ipsum_1.txt
 grep -o cat[a-z]* kitty_ipsum_1.txt
+man grep
+man grep
+__vsc_prompt_cmd_original
+grep -o cat[a-z]* kitty_ipsum_1.txt
+grep -o cat[a-z]* kitty_ipsum_1.txt
