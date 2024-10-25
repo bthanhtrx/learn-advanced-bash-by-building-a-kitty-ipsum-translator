@@ -236,3 +236,5 @@ grep meow kitty_ipsum_1.txt
 man grep
 man grep
 grep meow --color kitty_ipsum_1.txt
+man grep
+grep meow --color -n kitty_ipsum_1.txt
