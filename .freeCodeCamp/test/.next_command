@@ -437,3 +437,8 @@ grep meow -c --color kitty_ipsum_2.txt
 grep meow[a-z]* --color kitty_ipsum_2.txt
 __vsc_prompt_cmd_original
 echo -e "\nNumber of times meow or meowzer appears:" >> kitty_info.txt
+wc meow[a-z]* kitty_ipsum_2.txt < grep
+grep meow[a-z]* kitty_ipsum_2.txt
+grep meow[a-z]* kitty_ipsum_2.txt
+grep meow[a-z]* -o kitty_ipsum_2.txt
+grep meow[a-z]* -o kitty_ipsum_2.txt
