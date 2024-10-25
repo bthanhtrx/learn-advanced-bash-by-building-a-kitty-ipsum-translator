@@ -250,3 +250,4 @@ grep meow[a-z]* -o kitty_ipsum_1.txt
 man grep
 grep meow[a-z]* -c -o kitty_ipsum_1.txt
 grep meow[a-z]* -o kitty_ipsum_1.txt
+grep meow[a-z]* -o kitty_ipsum_1.txt
