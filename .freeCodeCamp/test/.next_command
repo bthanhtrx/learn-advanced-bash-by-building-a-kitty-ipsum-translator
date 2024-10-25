@@ -467,3 +467,5 @@ chmod +x translate.sh
 nano translate.sh
 __vsc_prompt_cmd_original
 nano translate.sh
+__vsc_prompt_cmd_original
+./translate.sh kitty_ipsum_1.txt
